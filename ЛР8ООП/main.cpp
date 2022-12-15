@@ -1,4 +1,5 @@
-#include "Main.h"
+#include "Main.h" //mamka
+//mama
 using namespace std;
 int main()
 {
