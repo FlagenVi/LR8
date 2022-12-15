@@ -1,6 +1,4 @@
-#include "Main.h" //mamka
-//mama
-//pee pee
+#include "Main.h"
 using namespace std;
 int main()
 {
