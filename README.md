@@ -1,2 +1,3 @@
 # LR8
-mamka
+*Papka added
+*mamka removed
